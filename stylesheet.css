@@ -1,0 +1,15 @@
+h1{
+    font-family: Comic sans, Comic sans MS, cursive;
+}
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #8619B5;
+}
+th{
+    font-weight: 800; 
+    background-color: #8619B5;
+    color: aliceblue;
+}
